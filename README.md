@@ -5,7 +5,7 @@
 - Estudando na DIO 📘
 - Moro em Taubaté-SP 🌍
 - Disponivél para o mercado de trabalho ✅
-- Contato (12) 997420252 📞
+- Contato (12) 997420252 📱
 
 
 ## Tecnologias!
