@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha2&color=yellow" alt="Profile views" /> </p>
 
 - Desenvolvedor de Software Front End | Mobile 💻
-- Estudando na DIO 📘
+- Estudando na DIO 📚
 - Moro em Taubaté-SP 🌍
 - Disponivél para o mercado de trabalho ✅
 - Contato (12) 997420252 📱
