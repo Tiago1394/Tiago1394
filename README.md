@@ -1,7 +1,7 @@
 <h1>Olá, Sou Tiago!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha2&color=yellow" alt="Profile views" /> </p>
 
-- Desenvolvedor de Software Front End | Mobile 💻
+- Desenvolvedor de Software Front End | Mobile 💻📲
 - Estudando na DIO 📚
 - Moro em Taubaté-SP 🌍
 - Disponivél para o mercado de trabalho ✅
